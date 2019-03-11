@@ -1,0 +1,32 @@
+1.	¿Qué son las metodologías ágiles? 
+es un proceso que ayuda a los equipos a proporcionar respuestas rápidas a los cambios que se reciben sobre el proyecto. Significa que crea oportunidades para evaluar la dirección de un proyecto durante el ciclo de desarrollo de este. Los equipos evalúan el proyecto en reuniones regulares llamadas sprints o iteraciones.
+Entonces las metodologías agiles nos permiten describir un método alternativo de gestión de proyectos.
+
+
+2.	Explique los valores y principios del manifiesto ágil. 
+
+
+3.	¿Qué es SCRUM?
+Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas prácticas se apoyan unas a otras y su selección tiene origen en un estudio de la manera de trabajar de equipos altamente productivos.
+En Scrum se realizan entregas parciales y regulares del producto final, priorizadas por el beneficio que aportan al receptor del proyecto. Por ello, Scrum está especialmente indicado para proyectos en entornos complejos, donde se necesita obtener resultados pronto, donde los requisitos son cambiantes o poco definidos, donde la innovación, la competitividad, la flexibilidad y la productividad son fundamentales.
+Scrum también se utiliza para resolver situaciones en que no se está entregando al cliente lo que necesita, cuando las entregas se alargan demasiado, los costes se disparan o la calidad no es aceptable, cuando se necesita capacidad de reacción ante la competencia, cuando la moral de los equipos es baja y la rotación alta, cuando es necesario identificar y solucionar ineficiencias sistemáticamente o cuando se quiere trabajar utilizando un proceso especializado en el desarrollo de producto.
+
+ 
+4.	Nombre y explique cada role definido en SCRUM.
+•	Product Owner (Dueño del Producto)
+Tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor del producto o proyecto que esté llevando a cabo. Esto, que se expresa fácilmente
+•	El Scrum Máster actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible la Metodología Scrum, se focaliza en la parte de negocio y es responsable del ROI del proyecto. Traslada la visión del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las prioriza de forma regular.
+•	Team (Equipo de Desarrollo) Grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeños, cuya duración es de 1 a 4 semanas, con preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de calidad llamado definición de terminado.
+
+
+ 
+5.	Describa el flujo de trabajo que se realiza al usar SCRUM en el desarrollo de software.
+ 
+6.	Defina el product backlog y los sprints que va a realizar para el proyecto final de la materia Introducción al desarrollo Web. 
+
+
+7.	¿Para qué sirven herramientas como Slack (https://slack.com) o como Flock (https://flock.com/) ¿Por qué no Whatapps Bussiness?
+ 
+8.	Crear una cuenta en Slack, hablar con los demás integ
+
+
