@@ -1,32 +1,48 @@
-1.	øQuÈ son las metodologÌas ·giles? 
-es un proceso que ayuda a los equipos a proporcionar respuestas r·pidas a los cambios que se reciben sobre el proyecto. Significa que crea oportunidades para evaluar la direcciÛn de un proyecto durante el ciclo de desarrollo de este. Los equipos eval˙an el proyecto en reuniones regulares llamadas sprints o iteraciones.
-Entonces las metodologÌas agiles nos permiten describir un mÈtodo alternativo de gestiÛn de proyectos.
+1.	¬øQu√© son las metodolog√≠as √°giles? 
+es un proceso que ayuda a los equipos a proporcionar respuestas r√°pidas a los cambios que se reciben sobre el proyecto. Significa que crea oportunidades para evaluar la direcci√≥n de un proyecto durante el ciclo de desarrollo de este. Los equipos eval√∫an el proyecto en reuniones regulares llamadas sprints o iteraciones.
+Entonces las metodolog√≠as agiles nos permiten describir un m√©todo alternativo de gesti√≥n de proyectos.
 
 
-2.	Explique los valores y principios del manifiesto ·gil. 
+2.	Explique los valores y principios del manifiesto √°gil. 
+Los valores definidos en el Manifiesto √Ågil no se centran en pr√°cticas, metodolog√≠as o procedimientos de trabajo, sino que abogan por un cambio de mentalidad, una nueva cultura organizativa basada en cuatro pilares:
 
+Individuos e interacciones sobre procesos y herramientas.
+‚ÄòSoftware‚Äô funcionando sobre documentaci√≥n exhaustiva.
+Colaboraci√≥n con el cliente sobre negociaci√≥n contractual.
+Respuesta ante el cambio sobre seguir un plan.hhh
+Estos cuatro valores se concretan en 12 principios, que definen el marco de trabajo de cualquier equipo √°gil:
 
-3.	øQuÈ es SCRUM?
-Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas pr·cticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas pr·cticas se apoyan unas a otras y su selecciÛn tiene origen en un estudio de la manera de trabajar de equipos altamente productivos.
-En Scrum se realizan entregas parciales y regulares del producto final, priorizadas por el beneficio que aportan al receptor del proyecto. Por ello, Scrum est· especialmente indicado para proyectos en entornos complejos, donde se necesita obtener resultados pronto, donde los requisitos son cambiantes o poco definidos, donde la innovaciÛn, la competitividad, la flexibilidad y la productividad son fundamentales.
-Scrum tambiÈn se utiliza para resolver situaciones en que no se est· entregando al cliente lo que necesita, cuando las entregas se alargan demasiado, los costes se disparan o la calidad no es aceptable, cuando se necesita capacidad de reacciÛn ante la competencia, cuando la moral de los equipos es baja y la rotaciÛn alta, cuando es necesario identificar y solucionar ineficiencias sistem·ticamente o cuando se quiere trabajar utilizando un proceso especializado en el desarrollo de producto.
+Nuestra mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de ‚Äòsoftware‚Äô con valor.
+Aceptamos que los requisitos cambien, incluso en etapas tard√≠as del desarrollo. Los procesos √°giles aprovechan el cambio para proporcionar ventaja competitiva al cliente.
+Entregamos ‚Äòsoftware‚Äô funcional frecuentemente, entre dos semanas y dos meses, preferentemente en el periodo de tiempo m√°s corto posible.
+Los responsables de negocio y los desarrolladores trabajamos juntos de forma cotidiana durante todo el proyecto.
+Los proyectos se desarrollan en torno a individuos motivados. Hay que darles el entorno y el apoyo que necesitan, y confiarles la ejecuci√≥n del trabajo.
+El m√©todo m√°s eficiente y efectivo de comunicar informaci√≥n al equipo de desarrollo, y entre los miembros del equipo, es la conversaci√≥n cara a cara.
+El ‚Äòsoftware‚Äô funcionando es la medida principal de progreso.
+Los procesos √°giles promueven el desarrollo sostenible. Los promotores, desarrolladores y usuarios debemos ser capaces de mantener un ritmo constante de forma indefinida.
+La atenci√≥n continua a la excelencia t√©cnica y al buen dise√±o mejora la agilidad.
+La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
+Las mejores arquitecturas, requisitos y dise√±os emergen de equipos autoorganizados.
+A intervalos regulares el equipo reflexiona sobre c√≥mo ser m√°s efectivo para a continuaci√≥n ajustar y perfeccionar su comportamiento en consecuencia.
+
+3.	¬øQu√© es SCRUM?
+Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas pr√°cticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas pr√°cticas se apoyan unas a otras y su selecci√≥n tiene origen en un estudio de la manera de trabajar de equipos altamente productivos.
+En Scrum se realizan entregas parciales y regulares del producto final, priorizadas por el beneficio que aportan al receptor del proyecto. Por ello, Scrum est√° especialmente indicado para proyectos en entornos complejos, donde se necesita obtener resultados pronto, donde los requisitos son cambiantes o poco definidos, donde la innovaci√≥n, la competitividad, la flexibilidad y la productividad son fundamentales.
+Scrum tambi√©n se utiliza para resolver situaciones en que no se est√° entregando al cliente lo que necesita, cuando las entregas se alargan demasiado, los costes se disparan o la calidad no es aceptable, cuando se necesita capacidad de reacci√≥n ante la competencia, cuando la moral de los equipos es baja y la rotaci√≥n alta, cuando es necesario identificar y solucionar ineficiencias sistem√°ticamente o cuando se quiere trabajar utilizando un proceso especializado en el desarrollo de producto.
 
  
 4.	Nombre y explique cada role definido en SCRUM.
-ï	Product Owner (DueÒo del Producto)
-Tiene la responsabilidad de decidir quÈ trabajo necesita hacerse y maximizar el valor del producto o proyecto que estÈ llevando a cabo. Esto, que se expresa f·cilmente
-ï	El Scrum M·ster act˙a como un lÌder servicial, ayudando al equipo y a la organizaciÛn a usar lo mejor posible la MetodologÌa Scrum, se focaliza en la parte de negocio y es responsable del ROI del proyecto. Traslada la visiÛn del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las prioriza de forma regular.
-ï	Team (Equipo de Desarrollo) Grupo de profesionales con los conocimientos tÈcnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeÒos, cuya duraciÛn es de 1 a 4 semanas, con preferencia por los intervalos m·s cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptaciÛn y est· construido con un nivel de calidad llamado definiciÛn de terminado.
+‚Ä¢	Product Owner (Due√±o del Producto)
+Tiene la responsabilidad de decidir qu√© trabajo necesita hacerse y maximizar el valor del producto o proyecto que est√© llevando a cabo. Esto, que se expresa f√°cilmente
+‚Ä¢	El Scrum M√°ster act√∫a como un l√≠der servicial, ayudando al equipo y a la organizaci√≥n a usar lo mejor posible la Metodolog√≠a Scrum, se focaliza en la parte de negocio y es responsable del ROI del proyecto. Traslada la visi√≥n del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las prioriza de forma regular.
+‚Ä¢	Team (Equipo de Desarrollo) Grupo de profesionales con los conocimientos t√©cnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos peque√±os, cuya duraci√≥n es de 1 a 4 semanas, con preferencia por los intervalos m√°s cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptaci√≥n y est√° construido con un nivel de calidad llamado definici√≥n de terminado.
 
 
  
 5.	Describa el flujo de trabajo que se realiza al usar SCRUM en el desarrollo de software.
  
-6.	Defina el product backlog y los sprints que va a realizar para el proyecto final de la materia IntroducciÛn al desarrollo Web. 
+6.	Defina el product backlog y los sprints que va a realizar para el proyecto final de la materia Introducci√≥n al desarrollo Web. 
 
 
-7.	øPara quÈ sirven herramientas como Slack (https://slack.com) o como Flock (https://flock.com/) øPor quÈ no Whatapps Bussiness?
+7.	¬øPara qu√© sirven herramientas como Slack (https://slack.com) o como Flock (https://flock.com/) ¬øPor qu√© no Whatapps Bussiness?
  
-8.	Crear una cuenta en Slack, hablar con los dem·s integ
-
-
